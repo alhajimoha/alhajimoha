@@ -3,19 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhajimoha" alt="alhajimoha" /></a> </p>
 
-- 🔭 I’m currently working on **supervised machine learning models**
-
 - 🌱 I’m currently learning **machine learning models**
 
 - 👯 I’m looking to collaborate on **data science and analysis projects**
 
 - 🤝 I’m looking for help with **real life machine learning projects**
 
-- 💬 Ask me about **Python and SQL**
-
 - 📫 How to reach me **alhajimoha2000@gmail.com**
-
-- ⚡ Fun fact **I like football but football does not like me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
