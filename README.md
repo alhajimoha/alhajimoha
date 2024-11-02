@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning **machine learning models**
 
 - 👯 I’m looking to collaborate on **data science and analysis projects**
-
-- 🤝 I’m looking for help with **real life machine learning projects**
-
+  
 - 📫 How to reach me **alhajimoha2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
